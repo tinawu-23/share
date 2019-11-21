@@ -23,9 +23,10 @@ A list of interesting & shareworthy things 🍧
 \> &nbsp; https://www.reddit.com/r/AskReddit/comments/5l4q4a/if_it_ever_turns_out_were_inside_a_simulation/    
 &nbsp;
 
-* **The Six Dumbest Ideas in Computer Security**    
+* **The Six Dumbest Ideas in Computer Security**           
 \> &nbsp; A humorous take on why things keep breaking  
 \> &nbsp; http://www.ranum.com/security/computer_security/editorials/dumb/   
+\> &nbsp; <sub><sup>(^ `thegwan` added this. i dont actually understand the article.)</sup></sub>    
 &nbsp;
 
 * **Enough with the Trolley Problem**    
