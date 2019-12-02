@@ -37,5 +37,10 @@ A list of interesting & shareworthy things 🍧
 * **I, Pencil**    
 \> &nbsp; An economics podcast that explains the beauty of a free market    
 \> &nbsp; http://freakonomics.com/podcast/i-pencil/    
+&nbsp; 
 
+* **Yes, You Should Delete Facebook**      
+\> &nbsp; You don't know if Facebook is listening to you, and you don't need to know.      
+\> &nbsp; https://medium.com/s/story/yes-you-should-delete-facebook-heres-why-bc623a3b4625    
+&nbsp;
 
