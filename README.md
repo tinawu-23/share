@@ -3,6 +3,7 @@ A list of interesting & shareworthy things 🍧
 
 <br>
 
+### ✨
 * **The Unix Philosophy**    
 \> &nbsp; The speech Professor [Peter Bui](https://www3.nd.edu/~pbui/) gave at CSE graduation ceremony 2019      
 \> &nbsp; https://yld.me/SAw?raw=1    
@@ -13,20 +14,27 @@ A list of interesting & shareworthy things 🍧
 \> &nbsp; https://gist.github.com/gtallen1187/e83ed02eac6cc8d7e185    
 &nbsp;
 
+### 💻
 * **Falsehoods CS Students Believe Upon Graduating**    
 \> &nbsp; A list of things some CS students dont (and might never) know    
 \> &nbsp; https://www.netmeister.org/blog/cs-falsehoods.html    
 &nbsp;
 
-* **If it ever turns out we're inside a simulation...**    
-\> &nbsp; (Can i be a real CS student if i dont think i'm in a simulation??)      
-\> &nbsp; https://www.reddit.com/r/AskReddit/comments/5l4q4a/if_it_ever_turns_out_were_inside_a_simulation/    
-&nbsp;
+* **HTTPS explained with pigeons**    
+\> &nbsp; A nice introduction of cryptography with Alice, Bob, Mallory, and a pigeon    
+\> &nbsp; https://www.freecodecamp.org/news/https-explained-with-carrier-pigeons-7029d2193351/    
+&nbsp; 
 
 * **The Six Dumbest Ideas in Computer Security**           
 \> &nbsp; A humorous take on why things keep breaking  
 \> &nbsp; http://www.ranum.com/security/computer_security/editorials/dumb/   
 \> &nbsp; <sub><sup>(^ `thegwan` added this. i dont actually understand the article.)</sup></sub>    
+&nbsp;
+
+### 💭
+* **If it ever turns out we're inside a simulation...**    
+\> &nbsp; (Can i be a real CS student if i dont think i'm in a simulation??)      
+\> &nbsp; https://www.reddit.com/r/AskReddit/comments/5l4q4a/if_it_ever_turns_out_were_inside_a_simulation/    
 &nbsp;
 
 * **Enough with the Trolley Problem**    
