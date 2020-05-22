@@ -52,3 +52,8 @@ A list of interesting & shareworthy things 🍧
 \> &nbsp; https://medium.com/s/story/yes-you-should-delete-facebook-heres-why-bc623a3b4625    
 &nbsp;
 
+* **'What Time is it in London?'**      
+\> &nbsp; NLP is hard isnt it?    
+\> &nbsp; https://daringfireball.net/linked/2020/05/22/what-time-is-it-in-london    
+\> &nbsp; <sub><sup>(Also Bing's live analog clock does look nice)</sup></sub>      
+&nbsp;
