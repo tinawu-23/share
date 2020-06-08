@@ -14,6 +14,11 @@ A list of interesting & shareworthy things 🍧
 \> &nbsp; https://gist.github.com/gtallen1187/e83ed02eac6cc8d7e185    
 &nbsp;
 
+* **50 Ideas That Changed My Life**     
+\> &nbsp; Some interesting thoughts & concepts    
+\> &nbsp; https://www.perell.com/blog/50-ideas-that-changed-my-life    
+&nbsp;
+
 ### 💻
 * **Falsehoods CS Students Believe Upon Graduating**    
 \> &nbsp; A list of things some CS students dont (and might never) know    
