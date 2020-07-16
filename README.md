@@ -62,3 +62,9 @@ A list of interesting & shareworthy things 🍧
 \> &nbsp; https://daringfireball.net/linked/2020/05/22/what-time-is-it-in-london    
 \> &nbsp; <sub><sup>(Also Bing's live analog clock does look nice)</sup></sub>      
 &nbsp;
+
+* **Skyblock: Potato War**      
+\> &nbsp; "I've realized now that rank number one isn't an achievement, it's a prison, which forces you to dedicate your life to defend a temporary title."      
+\> &nbsp; https://youtu.be/09CeBwGbCeg    
+\> &nbsp; not sure why I spent so long following the potato war, but techno sure is a good story teller..    
+&nbsp;
