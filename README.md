@@ -30,6 +30,11 @@ A list of interesting & shareworthy things 🍧
 \> &nbsp; https://www.freecodecamp.org/news/https-explained-with-carrier-pigeons-7029d2193351/    
 &nbsp; 
 
+* **How does the internet work?**    
+\> &nbsp; High-level overview of how internet works with basic explanation of common protocols    
+\> &nbsp; https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm     
+&nbsp; 
+
 * **The Six Dumbest Ideas in Computer Security**           
 \> &nbsp; A humorous take on why things keep breaking  
 \> &nbsp; http://www.ranum.com/security/computer_security/editorials/dumb/   
